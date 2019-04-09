@@ -3,7 +3,8 @@
 ----
 更新履歴
 - 2019年4月8日(月) 初版アップロード。既存のtutorialを追加
-- 2019年4月9日(火) 当ファイルに全てを集約
+- 2019年4月9日(火) 当ファイルに全てを集約<br>
+　暫定版をアップロードs
 ----
 
 ## もくじ
@@ -87,7 +88,7 @@ CmderやLinuxターミナルを何らかの形で起動させると以下画面�
 | Owner       | 基本的には自分しか選べないはず       |
 | Reository Name | URLでは github.com/ユーザー名/リポジトリ名 となります |
 | Description | 説明を記入　|
-| Public / Private | Privateは課金です |
+| Public / Private | 公開/非公開の設定 |
 | Initialize thi repository with a README | チェック入れると作成時にREADMEも作成されます |
 | Add .gitignore | .gitignoreは不要ファイルを列挙し、gitに上げない様にするためのファイル |
 
