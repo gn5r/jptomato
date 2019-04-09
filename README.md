@@ -7,11 +7,11 @@
 
 ## もくじ
 - [GitHubアカウントの取得](#GitHubアカウントの取得)
-- [Gitを使うための準備〜Windows編〜](../doc/tutorial_win.md)
-- [Gitを使うための準備〜Linux編〜](../doc/tutorial_linux.md)
+- [Gitを使うための準備〜Windows編〜](./doc/tutorial_win.md)
+- [Gitを使うための準備〜Linux編〜](./doc/tutorial_linux.md)
 ----
 
-<a name="GitHubアカウントの取得"/>
+<a name="GitHubアカウントの取得"></a>
 ## GitHubアカウントの取得
 [GitHub公式サイト](https://github.com/)にアクセスし、**sign up** をクリックし新規アカウントを作成してください。<br>
 
